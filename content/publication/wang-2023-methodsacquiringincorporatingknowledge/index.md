@@ -14,7 +14,8 @@ authors:
 date: '2023-01-01'
 publishDate: '2025-05-25T08:14:53.237154Z'
 publication_types:
-- manuscript
+- article-journal
+publication: '**ACM Computing Surveys**'
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2308.04947
